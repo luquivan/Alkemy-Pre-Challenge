@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "alkemy.challenge.sendgrid.apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.challenge.sendgrid.apikey'"
+  },
+  {
+    "name": "alkemy.challenge.sendgrid.senderemail",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.challenge.sendgrid.senderemail'"
+  }
+]}
